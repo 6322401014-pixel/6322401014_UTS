@@ -1,0 +1,69 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "main",
+    "deps": [],
+    "uuids": [
+        "01714fb25",
+        "0c4be99e-55d3-4525-8721-19cfe96903de",
+        "0c4be99e-55d3-4525-8721-19cfe96903de@6c48a",
+        "0c4be99e-55d3-4525-8721-19cfe96903de@f9941",
+        "0cec412fb",
+        "0eaa7fc4-7a5a-4c1a-b541-908fa533890a",
+        "2408e1e2-a34c-4611-9786-3ed0bc1fb300",
+        "2408e1e2-a34c-4611-9786-3ed0bc1fb300@6c48a",
+        "2408e1e2-a34c-4611-9786-3ed0bc1fb300@f9941",
+        "8d670dc1-6e42-456b-8672-862df014e43b",
+        "8d670dc1-6e42-456b-8672-862df014e43b@6c48a",
+        "8d670dc1-6e42-456b-8672-862df014e43b@f9941",
+        "997e9408-ff35-42c6-bc80-25a7420173e1",
+        "997e9408-ff35-42c6-bc80-25a7420173e1@6c48a",
+        "997e9408-ff35-42c6-bc80-25a7420173e1@f9941",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8"
+    ],
+    "paths": {
+        "0eaa7fc4-7a5a-4c1a-b541-908fa533890a": [
+            "db:/assets/game",
+            "cc.SceneAsset",
+            1
+        ],
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8": [
+            "db:/internal/default_renderpipeline/builtin-forward",
+            "cc.RenderPipeline",
+            1
+        ],
+        "ba21476f-2866-4f81-9c4d-6e359316e448": [
+            "db:/internal/physics/default-physics-material",
+            "cc.PhysicsMaterial",
+            1
+        ]
+    },
+    "scenes": {
+        "db://assets/game.scene": "0eaa7fc4-7a5a-4c1a-b541-908fa533890a"
+    },
+    "packs": {
+        "0cec412fb": [
+            "0c4be99e-55d3-4525-8721-19cfe96903de@6c48a",
+            "8d670dc1-6e42-456b-8672-862df014e43b@6c48a",
+            "997e9408-ff35-42c6-bc80-25a7420173e1@6c48a",
+            "2408e1e2-a34c-4611-9786-3ed0bc1fb300@6c48a"
+        ],
+        "01714fb25": [
+            "0c4be99e-55d3-4525-8721-19cfe96903de@f9941",
+            "0eaa7fc4-7a5a-4c1a-b541-908fa533890a",
+            "2408e1e2-a34c-4611-9786-3ed0bc1fb300@f9941",
+            "8d670dc1-6e42-456b-8672-862df014e43b@f9941",
+            "997e9408-ff35-42c6-bc80-25a7420173e1@f9941"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
